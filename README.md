@@ -24,6 +24,7 @@ mirrored to a GitHub Issue labeled `weekly`.
 | Week covered | Issue file | Published |
 |--------------|-----------|-----------|
 | Nov 2 – 8, 2026 | [`issues/2026-W45-nov-02-08.md`](issues/2026-W45-nov-02-08.md) | Nov 11, 2026 |
+| Nov 9 – 15, 2026 | [`issues/2026-W46-nov-09-15.md`](issues/2026-W46-nov-09-15.md) | Nov 18, 2026 |
 
 New issues land every Wednesday, covering Monday–Sunday of the previous week.
 
